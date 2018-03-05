@@ -1,0 +1,40 @@
+html,
+body {
+    height: 100%;
+}
+
+body {
+    margin: 0px;
+}
+
+html,
+body,
+#header,
+#content,
+#footer {
+    width: 100%;
+}
+
+#header {
+    height: 10%;
+}
+
+#content {
+    height: 90%;
+}
+
+#header,
+#content,
+#footer {
+    border-width: thin;
+    border-style: solid;
+
+}
+
+#searchBox{
+    margin-left:30%;
+    width:40%;
+    height:30p;
+}
+
+
